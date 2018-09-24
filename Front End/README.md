@@ -1,4 +1,5 @@
 ## README
+Joint project with <a href="https://github.com/sxkosone">Susanna Kosonen</a>
 
 Mapping application to show meetup events near you. Live demo version here: http://meet-by-me.herokuapp.com/
 

@@ -27,14 +27,14 @@ Joint project with <a href="https://github.com/sxkosone">Susanna Kosonen</a>
 
 # Frame Works and Libraries
 
-### Front End:
+### Frontend:
 
 * React
 * MapBoxGl
 * MeetUp Api
 * Semantic-Ui-React
 
-### Back End:
+### Backend:
 
 * Rails
 * Postgres

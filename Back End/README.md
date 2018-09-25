@@ -1,4 +1,4 @@
-# Copy from the original Repo:
+# Backend:
 <a href="https://github.com/sxkosone/fpn-backend">FPN Backend Original</a>
 
 Joint project with <a href="https://github.com/sxkosone">Susanna Kosonen</a>

@@ -11,7 +11,8 @@ Joint project with <a href="https://github.com/sxkosone">Susanna Kosonen</a>
   * Search Meet-Ups by category or key words
   * Save or remove these Meet-Ups in my own private list
   
-
+### Browser troubleshooting
+- If you get an "Error: Failed to initialize WebGL." on Google Chrome, you need to change your browser settings. Go to `chrome://flags` on the omnibar and enable WebGL Draft Extensions and Override Software Rendering List. You'll be required to restart the browser after this.
 
 
 # Wireframes:

@@ -19,7 +19,7 @@ Joint project with <a href="https://github.com/sxkosone">Susanna Kosonen</a>
 
 ![Nav Bar States](./public/NavBar.png)
 
-![Main Screen Wireframe image](./public/MainScreenWireFrame.png)
+![Main Screen Wireframe image](./public/MainScreenWireframe.png)
 
 ![Personal Screen Wireframe image](./public/PersonalPageWireframe.png)
 
